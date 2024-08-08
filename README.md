@@ -1,0 +1,2 @@
+odin-recipes
+Wow every time that i get on this i feel like i learn a new way of how not to do something. i think what i have learned is that i have to clone the repository in the bigger folder and then i can save everu=ything. nor have one repo in local and one in global and try to fit one in the other. 
